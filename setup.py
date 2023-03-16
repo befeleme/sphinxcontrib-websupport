@@ -72,6 +72,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'jinja2',
+        'setuptools',
         'sphinx',
         'sphinxcontrib-serializinghtml',
     ],
